@@ -39,8 +39,6 @@
 - [Usage](#usage)
 - [Contributions](#contributions)
 - [License](#license)
-- [Citing](#citing)
-- [Contact](#contact)
 
 ----
 
@@ -378,28 +376,6 @@ Contributions are welcome! Please check the [issues](https://github.com/souvikma
 This project is licensed under the **Apache-2.0 License**. See the [LICENSE](LICENSE) file for details.  
 
 ---
-
-## 📝 Citing <a name="citing"></a>
-```
-@misc{Souvik2025,
-  Author = {Souvik Majumder},
-  Title = {Multi Agent Medical Assistant},
-  Year = {2025},
-  Publisher = {GitHub},
-  Journal = {GitHub repository},
-  Howpublished = {\url{https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant}}
-}
-```
-
----
-
-## 📬 Contact  <a name="contact"></a>
-For any questions or collaboration inquiries, reach out to **Souvik Majumder** on:  
-
-🔗 **LinkedIn**: [https://www.linkedin.com/in/souvikmajumder26](https://www.linkedin.com/in/souvikmajumder26)
-
-🔗 **GitHub**: [https://github.com/souvikmajumder26](https://github.com/souvikmajumder26)
-
 <p align="right">
  <a href="#top"><b>🔝 Return </b></a>
 </p>
